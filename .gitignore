@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Medii virtuale
+.venv/
+venv/
+
+# Cache Pytest
+.pytest_cache/
+
+# Fișiere IDE (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Fișiere sensibile de configurare
+.env
+
+# Fișiere generate automat (de exemplu logs)
+*.log
